@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Миронівський академічний ліцей імені Т.Г. Шевченко</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<main>
+    <section id="about">
+        <h2>Про наш ліцей</h2>
+        <p>Тут ви можете розмістити інформацію про історію ліцею, його досягнення, колектив тощо.</p>
+    </section>
+    <section id="news">
+        <h2>Останні новини</h2>
+        </section>
+    </main>
+
+<footer>
+    <p>&copy; 2025 Миронівський академічний ліцей</p>
+</footer>
+
+<script src="js/script.js"></script>
+</body>
+</html>

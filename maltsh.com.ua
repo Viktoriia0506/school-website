@@ -1,0 +1,951 @@
+<!DOCTYPE html>
+<html lang="uk" class="app-front page view front cont-default bc-default padding-yes">
+<head>
+    <meta charset="UTF-8">
+    <title>Миронівський академічний ліцей імені Т.Г. Шевченко</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="csrf-param" content="_csrf-frontend">
+<meta name="csrf-token" content="b9pd_sA0s3Tw0kRKlTUqv1teVB3tXTJ-kpwZ2eVC0_wFtB6M8nDKH5TqA3jXVHOKKjUxRaNrVkn69k-MgCGkjg==">
+    <meta name="description" content="Миронівський академічний ліцей імені Т.Г. Шевченко">
+<link href="/assets/286d1f0e/css/bootstrap.min.css" rel="stylesheet">
+<link href="/assets/d451f20d/css/all.min.css" rel="stylesheet">
+<link href="/themes/basic/css/core.css" rel="stylesheet">
+<link href="/lib/mmenu/mmenu.css" rel="stylesheet">
+<link href="/assets/5ee28018/assets/owl.carousel.min.css" rel="stylesheet"></head>
+<body>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/uk_UA/sdk.js#xfbml=1&version=v4.0&autoLogAppEvents=1"></script>
+
+<nav id="menu" class="mob-cnt2">
+    
+<ul>
+            <li>
+            <a href="/">
+                Головна            </a>
+                    </li>
+            <li>
+            <a href="/news">
+                Новини            </a>
+                            <ul>
+                                            <li>
+                            <a href="/news">
+                                                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/news/tizden-sportu">
+                                Тиждень спорту!                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/news/navcalnij-rik-rozpocato">
+                                Навчальний рік розпочато!                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/news/nagorodzenna-najrozumnisih">
+                                Нагородження найрозумніших                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/news">
+                                Всі новини                            </a>
+                                                    </li>
+                                    </ul>
+                    </li>
+            <li>
+            <a href="/documents">
+                Документи            </a>
+                            <ul>
+                                            <li>
+                            <a href="/statut">
+                                Статут                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/ricnij-plan">
+                                Річний план                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/samoanaliz">
+                                Самоаналіз                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/robocij-plan">
+                                Робочий план                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/instrukcii-pamatki">
+                                Інструкції, пам'ятки                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/vipiska-z-edinogo-derzavnogo-reestru-uridicnih-osib-fizicnih-osib-pidpriemciv-ta-gromadskih-formuvan">
+                                Виписка з Єдиного державного реєстру юридичних осіб, фізичних осіб-підприємців та громадських формувань                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/normativno-pravova-baza">
+                                Нормативно-правова база                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/finansovi-zviti">
+                                Фінансова звітність                            </a>
+                                                            <ul>
+                                                                            <li>
+                                            <a href="/materialno-tehnicna-baza">
+                                                Матеріально-технічна база                                            </a>
+                                                                                    </li>
+                                                                    </ul>
+                                                    </li>
+                                    </ul>
+                    </li>
+            <li>
+            <a href="/nas-licej">
+                Наш ліцей            </a>
+                            <ul>
+                                            <li>
+                            <a href="/istoria-zakladu">
+                                Історія закладу                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/vizitivka">
+                                Візитка закладу                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/kontingent-ucniv">
+                                Контингент учнів                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/upravlinna-liceu">
+                                Управління ліцею                            </a>
+                                                            <ul>
+                                                                            <li>
+                                            <a href="/lyceum-management">
+                                                Адміністрація ліцею                                            </a>
+                                                                                    </li>
+                                                                            <li>
+                                            <a href="/lyceum-management">
+                                                Колегіальні органи                                            </a>
+                                                                                            <ul>
+                                                                                                            <li>
+                                                            <a href="/konferencia-liceu">
+                                                                Конференція ліцею                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="/rada-liceu">
+                                                                Рада ліцею                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="/pikluvalna-rada">
+                                                                Піклувальна рада                                                            </a>
+                                                        </li>
+                                                                                                    </ul>
+                                                                                    </li>
+                                                                            <li>
+                                            <a href="/parlament-liceu">
+                                                Парламент ліцею                                            </a>
+                                                                                    </li>
+                                                                            <li>
+                                            <a href="/pedrada">
+                                                Педрада                                            </a>
+                                                                                    </li>
+                                                                    </ul>
+                                                    </li>
+                                            <li>
+                            <a href="/pedkoletiv">
+                                Педколектив                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/evroklub-veritas">
+                                Євроклуб "VERITAS"                            </a>
+                                                            <ul>
+                                                                            <li>
+                                            <a href="/so-ce-take">
+                                                Що це таке?                                            </a>
+                                                                                    </li>
+                                                                            <li>
+                                            <a href="/statut-evroklubu">
+                                                Статут                                            </a>
+                                                                                    </li>
+                                                                            <li>
+                                            <a href="/dialnist-klubu">
+                                                Діяльність клубу                                            </a>
+                                                                                    </li>
+                                                                    </ul>
+                                                    </li>
+                                            <li>
+                            <a href="/galleries">
+                                Фотогалерея                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/events">
+                                Події                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/metodicna-rada">
+                                Методичний кабінет                            </a>
+                                                            <ul>
+                                                                            <li>
+                                            <a href="/metodicna-rada-2">
+                                                Методична рада                                            </a>
+                                                                                    </li>
+                                                                            <li>
+                                            <a href="/organizacia-metodicnoi-roboti">
+                                                Організація методичної роботи                                            </a>
+                                                                                    </li>
+                                                                            <li>
+                                            <a href="/zasidanna-metodicnoi-radi">
+                                                Засідання методичної ради                                            </a>
+                                                                                    </li>
+                                                                            <li>
+                                            <a href="/metodicna-rada">
+                                                Структура методичної роботи                                            </a>
+                                                                                    </li>
+                                                                            <li>
+                                            <a href="/pidsumki-metodicnoi-roboti-za-2020-2021nr">
+                                                Підсумки методичної роботи за 2020-2021н.р.                                            </a>
+                                                                                    </li>
+                                                                    </ul>
+                                                    </li>
+                                    </ul>
+                    </li>
+            <li>
+            <a href="/informacia">
+                Інформація            </a>
+                            <ul>
+                                            <li>
+                            <a href="/bezpecne-osvitne-seredovise">
+                                Безпечне освітнє середовище                            </a>
+                                                            <ul>
+                                                                            <li>
+                                            <a href="/klas-bezpeki-2">
+                                                Клас безпеки                                            </a>
+                                                                                            <ul>
+                                                                                                            <li>
+                                                            <a href="/normativna-baza">
+                                                                Нормативна база                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="/klas-bezpeki">
+                                                                Новини                                                            </a>
+                                                        </li>
+                                                                                                    </ul>
+                                                                                    </li>
+                                                                    </ul>
+                                                    </li>
+                                            <li>
+                            <a href="/licenzia">
+                                Ліцензія                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/licenzovanij-obsag-ta-fakticna-kilkist-zdobuvaciv-osviti">
+                                Ліцензований обсяг та фактична кількість здобувачів освіти                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/teritoria-obslugovuvanna">
+                                Територія обслуговування​                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/mova-osvitnogo-procesu">
+                                Мова освітнього процесу                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/materialno-tehnicna-baza">
+                                Матеріально-технічне забезпечення                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/tehnika-bezpeki">
+                                Техніка безпеки                            </a>
+                                                            <ul>
+                                                                            <li>
+                                            <a href="/voennij-stan">
+                                                Воєнний стан                                            </a>
+                                                                                    </li>
+                                                                            <li>
+                                            <a href="/dla-vcitela">
+                                                Для вчителя                                            </a>
+                                                                                    </li>
+                                                                            <li>
+                                            <a href="/tehnika-bezpeki-na-kanikulah">
+                                                На літніх канікулах                                            </a>
+                                                                                    </li>
+                                                                            <li>
+                                            <a href="/uvaga-karantin">
+                                                На зимових канікулах                                            </a>
+                                                                                    </li>
+                                                                            <li>
+                                            <a href="/karantin">
+                                                Карантин                                            </a>
+                                                                                            <ul>
+                                                                                                            <li>
+                                                            <a href="/karantin">
+                                                                Техніка безпеки                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="/plan-protiepidemicnih-zahodiv">
+                                                                План протиепідемічних заходів                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="/pravila-vidviduvanna-zakladu-v-umovah-profilaktiki-rozpovsudzenna-koronavirusnoi-hvorobi">
+                                                                Правила відвідування закладу в умовах профілактики розповсюдження коронавірусної хвороби                                                            </a>
+                                                        </li>
+                                                                                                    </ul>
+                                                                                    </li>
+                                                                    </ul>
+                                                    </li>
+                                            <li>
+                            <a href="/instrukcii-z-ohoroni-praci-dla-administracii-skoli">
+                                Інструкції з охорони праці для адміністрації школи                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/zno-2023">
+                                ЗНО                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/bezpecnij-internet">
+                                Безпечний Інтернет                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/dla-batkiv">
+                                Для батьків                            </a>
+                                                            <ul>
+                                                                            <li>
+                                            <a href="/ak-pidtrimati-svou-ditinu-pid-cas-vijni">
+                                                ЯК ПІДТРИМАТИ СВОЮ ДИТИНУ ПІД ЧАС ВІЙНИ?                                            </a>
+                                                                                    </li>
+                                                                            <li>
+                                            <a href="nabuta-invalidnist-ditini-poradi">
+                                                Набута інвалідність дитини. Поради                                            </a>
+                                                                                    </li>
+                                                                            <li>
+                                            <a href="/prijom-do-skoli">
+                                                Прийом до школи                                            </a>
+                                                                                    </li>
+                                                                    </ul>
+                                                    </li>
+                                            <li>
+                            <a href="/dla-ucniv">
+                                Для учнів                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/buling">
+                                Булінг                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="plan-zahodiv-protidii-bulingu">
+                                План заходів протидії булінгу                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/vakansii">
+                                Вакансії                            </a>
+                                                    </li>
+                                    </ul>
+                    </li>
+            <li>
+            <a href="/distancijne-navcanna-2021">
+                Дистанційна освіта            </a>
+                            <ul>
+                                            <li>
+                            <a href="/organizacia-distancijnogo-navcanna-v-skoli-metodicni-rekomendacii">
+                                Організація дистанційного навчання в школі. Методичні рекомендації.                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/navcanna-v-umovah-voennogo-stanu">
+                                Навчання в умовах воєнного стану                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="platforma-human-skola">
+                                Платформа Human Школа                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/moa-skola-2">
+                                Моя школа                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/instrukcii-dla-ucniv-ta-batkiv-ak-pracuvati-v-zastosunkah">
+                                Інструкції для учнів та батьків як працювати в застосунках                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/distancijne-navcanna-2021">
+                                Документи                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="pravila-povedinki-na-distancijnomu-uroci">
+                                Правила поведінки під час онлайн-заняття                            </a>
+                                                    </li>
+                                    </ul>
+                    </li>
+            <li>
+            <a href="/storinka-psihologa">
+                Сторінка психолога            </a>
+                    </li>
+            <li>
+            <a href="/vnutrisna-sistema-zabezpecenna-akosti-osviti">
+                Внутрішня система забезпечення якості освіти            </a>
+                            <ul>
+                                            <li>
+                            <a href="/polozenna-pro-vnutrisnu-sistemu-zabezpecenna-akosti-osviti">
+                                Положення про внутрішню систему якості освіти                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/tehnicne-zabezpecenna-distancijnogo-navcanna">
+                                Технічне забезпечення дистанційного навчання.                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/polozenna-pro-akademicnu-dobrocesnist-zdobuvaciv-osviti-pedagogicnih-pracivnikiv">
+                                Положення про академічну доброчесність здобувачів освіти, педагогічних працівників                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/kriterii-pravila-procedura-ocinuvanna-rezultativ-navcanna">
+                                Критерії, правила, процедура оцінювання результатів навчання                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/kriterii-pravila-procedura-ocinuvanna-dialnosti-pedagogicnogo-pracivnika">
+                                Критерії, правила, процедура оцінювання діяльності педагогічного працівника                            </a>
+                                                    </li>
+                                    </ul>
+                    </li>
+            <li>
+            <a href="/inkluzivne-navcanna">
+                Інклюзивне навчання            </a>
+                            <ul>
+                                            <li>
+                            <a href="/umovi-dostupnosti-zakladu-osviti-dla-navcanna-osib-z-osoblivimi-osvitnimi-potrebami">
+                                Умови доступності закладу освіти для навчання осіб з особливими освітніми потребами                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/organizacia-navcanna-osib-z-osoblivimi-osvitnimi-potrebami">
+                                Організація навчання осіб з особливими освітніми потребами                            </a>
+                                                    </li>
+                                    </ul>
+                    </li>
+            <li>
+            <a href="/page/view">
+                Режим роботи            </a>
+                            <ul>
+                                            <li>
+                            <a href="/rozklad">
+                                Розклад уроків                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/rozklad-dzvinkiv">
+                                Розклад дзвінків                            </a>
+                                                    </li>
+                                    </ul>
+                    </li>
+            <li>
+            <a href="/contacts">
+                Контакти            </a>
+                    </li>
+    </ul></nav>
+
+<div id="global">
+
+    <div class="mob-row" style="display: none">
+        <div class="row-inner">
+            <a href="#menu" class="side-open h-a" style="display: none;">
+                <input type="checkbox" id="mob-chk">
+                <i class="mob-tgl fas fa-bars" for="mob-chk"></i><!--span class="mob-tgl" ></span-->
+            </a>
+
+            <a class="mob-school" href="/">
+                Миронівський<br>
+                академічний ліцей<br>
+                імені Т.Г. Шевченка
+            </a>
+
+            <a class="mob-logo" href="/">
+                <img src="/themes/basic/img/logo.png" alt="logo">
+            </a>
+        </div>
+    </div>
+
+    <header class="header">
+<div class="head-main area">
+
+    <div class="cell logo">
+        <a href="/">
+            <img src="/themes/basic/img/logo.png" alt="">
+        </a>
+    </div>
+
+    <div class="cell site">
+        <div class="site-name">Опорний заклад освіти "Миронівський академічний ліцей імені Т.Г. Шевченкa Миронівської міської ради Київської області"</div>
+        <nav>
+<ul id="w0" class="menu-top lvl-1"><li class="active"><a href="/">Головна</a></li>
+<li class="c-news dropdown"><a class="dropdown-toggle" href="/news" data-toggle="dropdown">Новини <b class="caret"></b></a><ul id="w1" class="dropdown-menu"><li><a href="/news" tabindex="-1"></a></li>
+<li><a href="/news/tizden-sportu" tabindex="-1">Тиждень спорту!</a></li>
+<li><a href="/news/navcalnij-rik-rozpocato" tabindex="-1">Навчальний рік розпочато!</a></li>
+<li><a href="/news/nagorodzenna-najrozumnisih" tabindex="-1">Нагородження найрозумніших</a></li>
+<li><a href="/news" tabindex="-1">Всі новини</a></li></ul></li>
+<li class="dropdown"><a class="dropdown-toggle" href="/documents" data-toggle="dropdown">Документи <b class="caret"></b></a><ul id="w2" class="dropdown-menu"><li><a href="/statut" tabindex="-1">Статут</a></li>
+<li><a href="/ricnij-plan" tabindex="-1">Річний план</a></li>
+<li><a href="/samoanaliz" tabindex="-1">Самоаналіз</a></li>
+<li><a href="/robocij-plan" tabindex="-1">Робочий план</a></li>
+<li><a href="/instrukcii-pamatki" tabindex="-1">Інструкції, пам'ятки</a></li>
+<li><a href="/vipiska-z-edinogo-derzavnogo-reestru-uridicnih-osib-fizicnih-osib-pidpriemciv-ta-gromadskih-formuvan" tabindex="-1">Виписка з Єдиного державного реєстру юридичних осіб, фізичних осіб-підприємців та громадських формувань</a></li>
+<li><a href="/normativno-pravova-baza" tabindex="-1">Нормативно-правова база</a></li>
+<li class="dropdown-submenu"><a class="dropdown-toggle" href="/finansovi-zviti" data-toggle="dropdown" tabindex="-1">Фінансова звітність</a><ul class="dropdown-menu"><li><a href="/materialno-tehnicna-baza" tabindex="-1">Матеріально-технічна база</a></li></ul></li></ul></li>
+<li class="dropdown"><a class="dropdown-toggle" href="/nas-licej" data-toggle="dropdown">Наш ліцей <b class="caret"></b></a><ul id="w3" class="dropdown-menu"><li><a href="/istoria-zakladu" tabindex="-1">Історія закладу</a></li>
+<li><a href="/vizitivka" tabindex="-1">Візитка закладу</a></li>
+<li><a href="/kontingent-ucniv" tabindex="-1">Контингент учнів</a></li>
+<li class="dropdown-submenu"><a class="dropdown-toggle" href="/upravlinna-liceu" data-toggle="dropdown" tabindex="-1">Управління ліцею</a><ul class="dropdown-menu"><li><a href="/lyceum-management" tabindex="-1">Адміністрація ліцею</a></li>
+<li class="dropdown-submenu"><a class="dropdown-toggle" href="/lyceum-management" data-toggle="dropdown" tabindex="-1">Колегіальні органи</a><ul class="dropdown-menu"><li><a href="/konferencia-liceu" tabindex="-1">Конференція ліцею</a></li>
+<li><a href="/rada-liceu" tabindex="-1">Рада ліцею</a></li>
+<li><a href="/pikluvalna-rada" tabindex="-1">Піклувальна рада</a></li></ul></li>
+<li><a href="/parlament-liceu" tabindex="-1">Парламент ліцею</a></li>
+<li><a href="/pedrada" tabindex="-1">Педрада</a></li></ul></li>
+<li><a href="/pedkoletiv" tabindex="-1">Педколектив</a></li>
+<li class="dropdown-submenu"><a class="dropdown-toggle" href="/evroklub-veritas" data-toggle="dropdown" tabindex="-1">Євроклуб "VERITAS"</a><ul class="dropdown-menu"><li><a href="/so-ce-take" tabindex="-1">Що це таке?</a></li>
+<li><a href="/statut-evroklubu" tabindex="-1">Статут</a></li>
+<li><a href="/dialnist-klubu" tabindex="-1">Діяльність клубу</a></li></ul></li>
+<li><a href="/galleries" tabindex="-1">Фотогалерея</a></li>
+<li><a href="/events" tabindex="-1">Події</a></li>
+<li class="dropdown-submenu"><a class="dropdown-toggle" href="/metodicna-rada" data-toggle="dropdown" tabindex="-1">Методичний кабінет</a><ul class="dropdown-menu"><li><a href="/metodicna-rada-2" tabindex="-1">Методична рада</a></li>
+<li><a href="/organizacia-metodicnoi-roboti" tabindex="-1">Організація методичної роботи</a></li>
+<li><a href="/zasidanna-metodicnoi-radi" tabindex="-1">Засідання методичної ради</a></li>
+<li><a href="/metodicna-rada" tabindex="-1">Структура методичної роботи</a></li>
+<li><a href="/pidsumki-metodicnoi-roboti-za-2020-2021nr" tabindex="-1">Підсумки методичної роботи за 2020-2021н.р.</a></li></ul></li></ul></li>
+<li class="dropdown"><a class="dropdown-toggle" href="/informacia" data-toggle="dropdown">Інформація <b class="caret"></b></a><ul id="w4" class="dropdown-menu"><li class="dropdown-submenu"><a class="dropdown-toggle" href="/bezpecne-osvitne-seredovise" data-toggle="dropdown" tabindex="-1">Безпечне освітнє середовище</a><ul class="dropdown-menu"><li class="dropdown-submenu"><a class="dropdown-toggle" href="/klas-bezpeki-2" data-toggle="dropdown" tabindex="-1">Клас безпеки</a><ul class="dropdown-menu"><li><a href="/normativna-baza" tabindex="-1">Нормативна база</a></li>
+<li><a href="/klas-bezpeki" tabindex="-1">Новини</a></li></ul></li></ul></li>
+<li><a href="/licenzia" tabindex="-1">Ліцензія</a></li>
+<li><a href="/licenzovanij-obsag-ta-fakticna-kilkist-zdobuvaciv-osviti" tabindex="-1">Ліцензований обсяг та фактична кількість здобувачів освіти</a></li>
+<li><a href="/teritoria-obslugovuvanna" tabindex="-1">Територія обслуговування​</a></li>
+<li><a href="/mova-osvitnogo-procesu" tabindex="-1">Мова освітнього процесу</a></li>
+<li><a href="/materialno-tehnicna-baza" tabindex="-1">Матеріально-технічне забезпечення</a></li>
+<li class="dropdown-submenu"><a class="dropdown-toggle" href="/tehnika-bezpeki" data-toggle="dropdown" tabindex="-1">Техніка безпеки</a><ul class="dropdown-menu"><li><a href="/voennij-stan" tabindex="-1">Воєнний стан</a></li>
+<li><a href="/dla-vcitela" tabindex="-1">Для вчителя</a></li>
+<li><a href="/tehnika-bezpeki-na-kanikulah" tabindex="-1">На літніх канікулах</a></li>
+<li><a href="/uvaga-karantin" tabindex="-1">На зимових канікулах</a></li>
+<li class="dropdown-submenu"><a class="dropdown-toggle" href="/karantin" data-toggle="dropdown" tabindex="-1">Карантин</a><ul class="dropdown-menu"><li><a href="/karantin" tabindex="-1">Техніка безпеки</a></li>
+<li><a href="/plan-protiepidemicnih-zahodiv" tabindex="-1">План протиепідемічних заходів</a></li>
+<li><a href="/pravila-vidviduvanna-zakladu-v-umovah-profilaktiki-rozpovsudzenna-koronavirusnoi-hvorobi" tabindex="-1">Правила відвідування закладу в умовах профілактики розповсюдження коронавірусної хвороби</a></li></ul></li></ul></li>
+<li><a href="/instrukcii-z-ohoroni-praci-dla-administracii-skoli" tabindex="-1">Інструкції з охорони праці для адміністрації школи</a></li>
+<li><a href="/zno-2023" tabindex="-1">ЗНО</a></li>
+<li><a href="/bezpecnij-internet" tabindex="-1">Безпечний Інтернет</a></li>
+<li class="dropdown-submenu"><a class="dropdown-toggle" href="/dla-batkiv" data-toggle="dropdown" tabindex="-1">Для батьків</a><ul class="dropdown-menu"><li><a href="/ak-pidtrimati-svou-ditinu-pid-cas-vijni" tabindex="-1">ЯК ПІДТРИМАТИ СВОЮ ДИТИНУ ПІД ЧАС ВІЙНИ?</a></li>
+<li><a href="nabuta-invalidnist-ditini-poradi" tabindex="-1">Набута інвалідність дитини. Поради</a></li>
+<li><a href="/prijom-do-skoli" tabindex="-1">Прийом до школи</a></li></ul></li>
+<li><a href="/dla-ucniv" tabindex="-1">Для учнів</a></li>
+<li><a href="/buling" tabindex="-1">Булінг</a></li>
+<li><a href="plan-zahodiv-protidii-bulingu" tabindex="-1">План заходів протидії булінгу</a></li>
+<li><a href="/vakansii" tabindex="-1">Вакансії</a></li></ul></li>
+<li class="dropdown"><a class="dropdown-toggle" href="/distancijne-navcanna-2021" data-toggle="dropdown">Дистанційна освіта <b class="caret"></b></a><ul id="w5" class="dropdown-menu"><li><a href="/organizacia-distancijnogo-navcanna-v-skoli-metodicni-rekomendacii" tabindex="-1">Організація дистанційного навчання в школі. Методичні рекомендації.</a></li>
+<li><a href="/navcanna-v-umovah-voennogo-stanu" tabindex="-1">Навчання в умовах воєнного стану</a></li>
+<li><a href="platforma-human-skola" tabindex="-1">Платформа Human Школа</a></li>
+<li><a href="/moa-skola-2" tabindex="-1">Моя школа</a></li>
+<li><a href="/instrukcii-dla-ucniv-ta-batkiv-ak-pracuvati-v-zastosunkah" tabindex="-1">Інструкції для учнів та батьків як працювати в застосунках</a></li>
+<li><a href="/distancijne-navcanna-2021" tabindex="-1">Документи</a></li>
+<li><a href="pravila-povedinki-na-distancijnomu-uroci" tabindex="-1">Правила поведінки під час онлайн-заняття</a></li></ul></li>
+<li><a href="/storinka-psihologa">Сторінка психолога</a></li>
+<li class="dropdown"><a class="dropdown-toggle" href="/vnutrisna-sistema-zabezpecenna-akosti-osviti" data-toggle="dropdown">Внутрішня система забезпечення якості освіти <b class="caret"></b></a><ul id="w6" class="dropdown-menu"><li><a href="/polozenna-pro-vnutrisnu-sistemu-zabezpecenna-akosti-osviti" tabindex="-1">Положення про внутрішню систему якості освіти</a></li>
+<li><a href="/tehnicne-zabezpecenna-distancijnogo-navcanna" tabindex="-1">Технічне забезпечення дистанційного навчання.</a></li>
+<li><a href="/polozenna-pro-akademicnu-dobrocesnist-zdobuvaciv-osviti-pedagogicnih-pracivnikiv" tabindex="-1">Положення про академічну доброчесність здобувачів освіти, педагогічних працівників</a></li>
+<li><a href="/kriterii-pravila-procedura-ocinuvanna-rezultativ-navcanna" tabindex="-1">Критерії, правила, процедура оцінювання результатів навчання</a></li>
+<li><a href="/kriterii-pravila-procedura-ocinuvanna-dialnosti-pedagogicnogo-pracivnika" tabindex="-1">Критерії, правила, процедура оцінювання діяльності педагогічного працівника</a></li></ul></li>
+<li class="dropdown"><a class="dropdown-toggle" href="/inkluzivne-navcanna" data-toggle="dropdown">Інклюзивне навчання <b class="caret"></b></a><ul id="w7" class="dropdown-menu"><li><a href="/umovi-dostupnosti-zakladu-osviti-dla-navcanna-osib-z-osoblivimi-osvitnimi-potrebami" tabindex="-1">Умови доступності закладу освіти для навчання осіб з особливими освітніми потребами</a></li>
+<li><a href="/organizacia-navcanna-osib-z-osoblivimi-osvitnimi-potrebami" tabindex="-1">Організація навчання осіб з особливими освітніми потребами</a></li></ul></li>
+<li class="dropdown"><a class="dropdown-toggle" href="/page/view" data-toggle="dropdown">Режим роботи <b class="caret"></b></a><ul id="w8" class="dropdown-menu"><li><a href="/rozklad" tabindex="-1">Розклад уроків</a></li>
+<li><a href="/rozklad-dzvinkiv" tabindex="-1">Розклад дзвінків</a></li></ul></li>
+<li><a href="/contacts">Контакти</a></li></ul></nav>
+    </div>
+</div>
+
+
+</header>        
+    <div class="main-before"><div id="owc9" class="front-slider owl-carousel"><a class="hm-sl" title="" href="#" style="display: inline-block; width: 100%;"><img src="/images/9/17/images/1920x600/123.png" alt=""></a><a class="hm-sl" title="" href="#" style="display: inline-block; width: 100%;"><img src="/images/9/18/images/1920x600/img4505nnnn.png" alt=""></a><a class="hm-sl" title="" href="#" style="display: inline-block; width: 100%;"><img src="/images/9/19/images/1920x600/234.png" alt=""></a><a class="hm-sl" title="" href="" style="display: inline-block; width: 100%;"><img src="/images/9/20/images/1920x600/dsc0829.png" alt=""></a><a class="hm-sl" title="" href="" style="display: inline-block; width: 100%;"><img src="/images/9/21/images/1920x600/slajder.jpg" alt=""></a></div></div>    <div class="primary">
+        <div class="area">
+            <main class="main sbl">
+                <div class="main-inner">
+                                                            <div class="content"><div id="page-1" class="page-wrapper home">
+
+    
+                    <div class="body">
+            
+    <div class="">
+    <div class="head">
+        <div class="title"><a href="/news">Новини</a></div>
+    </div>
+
+    <div class="body">
+        <div class="article-block news">
+    <div class="picture">
+        <a href="/news">
+            <img src="/images/10/308/image/300x200/zobrazennaviber2024-11-2614-23-58-702.jpg" alt="" title="">        </a>
+    </div>
+
+
+    <div class="inner">
+        <div class="title">
+            <a href="/news"></a>
+        </div>
+
+        <div class="info">
+            <span class="views">
+                <i class="fa fa-eye" aria-hidden="true"></i> 0            </span>
+                        <span class="date">
+                <i class="fa fa-clock" aria-hidden="true"></i> 15.09.2024            </span>
+        </div>
+
+            
+        <div class="announce">
+                    </div>
+
+    </div>
+</div>
+<div class="article-block news">
+    <div class="picture">
+        <a href="/news/tizden-sportu">
+            <img src="/images/10/307/image/300x200/photo5454247646173718106y.jpg" alt="" title="">        </a>
+    </div>
+
+
+    <div class="inner">
+        <div class="title">
+            <a href="/news/tizden-sportu">Тиждень спорту!</a>
+        </div>
+
+        <div class="info">
+            <span class="views">
+                <i class="fa fa-eye" aria-hidden="true"></i> 31            </span>
+                        <span class="date">
+                <i class="fa fa-clock" aria-hidden="true"></i> 14.09.2024            </span>
+        </div>
+
+            
+        <div class="announce">
+                    </div>
+
+    </div>
+</div>
+<div class="article-block news">
+    <div class="picture">
+        <a href="/news/navcalnij-rik-rozpocato">
+            <img src="/images/10/306/image/300x200/zobrazennaviber2024-09-0714-59-31-530.jpg" alt="" title="">        </a>
+    </div>
+
+
+    <div class="inner">
+        <div class="title">
+            <a href="/news/navcalnij-rik-rozpocato">Навчальний рік розпочато!</a>
+        </div>
+
+        <div class="info">
+            <span class="views">
+                <i class="fa fa-eye" aria-hidden="true"></i> 30            </span>
+                        <span class="date">
+                <i class="fa fa-clock" aria-hidden="true"></i> 07.09.2024            </span>
+        </div>
+
+            
+        <div class="announce">
+                    </div>
+
+    </div>
+</div>
+<div class="article-block news">
+    <div class="picture">
+        <a href="/news/nagorodzenna-najrozumnisih">
+            <img src="/images/10/305/image/300x200/20240530174610.jpg" alt="" title="">        </a>
+    </div>
+
+
+    <div class="inner">
+        <div class="title">
+            <a href="/news/nagorodzenna-najrozumnisih">Нагородження найрозумніших</a>
+        </div>
+
+        <div class="info">
+            <span class="views">
+                <i class="fa fa-eye" aria-hidden="true"></i> 36            </span>
+                        <span class="date">
+                <i class="fa fa-clock" aria-hidden="true"></i> 30.05.2024            </span>
+        </div>
+
+            
+        <div class="announce">
+                    </div>
+
+    </div>
+</div>
+    </div>
+</div>
+
+
+    <div class="front-desc">
+            </div>
+        </div>
+    </div>
+
+</div>                                    </div>
+            </main>
+
+                        <aside class="sidebar-left">
+                <div class="widget-wrapper w_acts">
+    <div class="head">
+        <div class="title"><a href="/events">Події</a></div>
+    </div>
+
+    <div class="body">
+        <div class="news-block">
+
+    <div class="inner">
+        <div class="title">
+            <a href="/event/nagorodzenna-najaktivnisih">Нагородження найактивніших</a>
+        </div>
+
+
+        <div class="picture">
+            <a href="/event/nagorodzenna-najaktivnisih">
+                <img src="/images/10/267/image/240x100/4140470999069255442002317068484270035768075n.jpg" alt="" title="">            </a>
+        </div>
+        <div class="date text-right">
+            27.12.2023        </div>
+        <div class="picture" style="font-size: 12px; line-height: 1; padding: 5px 0 0 0;">
+                    </div>
+    </div>
+</div>
+<div class="news-block">
+
+    <div class="inner">
+        <div class="title">
+            <a href="/event/rizdvani-vitanna-vid-klubu-veritas-2">Різдвяні вітання від клубу  VERITAS</a>
+        </div>
+
+
+        <div class="picture">
+            <a href="/event/rizdvani-vitanna-vid-klubu-veritas-2">
+                <img src="/images/10/265/image/240x100/zobrazennaviber2023-12-0615-40-10-308.jpg" alt="" title="">            </a>
+        </div>
+        <div class="date text-right">
+            15.12.2023        </div>
+        <div class="picture" style="font-size: 12px; line-height: 1; padding: 5px 0 0 0;">
+                    </div>
+    </div>
+</div>
+    </div>
+</div>
+
+
+<div class="side-links">
+    <a href="/sajt-liceisti-zurnalisti">Сайт &quot;ЛІЦЕЇСТИ-ЖУРНАЛІСТИ&quot;</a><a href="https://www.facebook.com/profile.php?id=100046483817648">Facebook-сторінка</a><a href="https://www.youtube.com/channel/UCGLx-jS9t9moVzmgIj8ceMQ">YouTube-канал Лариса Кондратюк</a><a href="https://ohoronapraci.kiev.ua/article/ditacij-malunok/pro-konkurs-ditacogo-malunka-about-childrens-drawing-competition">Увага! Конкурс!</a></div><div class="widget-wrapper nav-main">
+    <div class="head">
+        <div class="title">Пошук</div>
+    </div>
+
+    <div class="body">
+        <form id="w6" class="search-form form-vertical" action="/search" method="get">
+            <input type="text" id="search" class="form-control" name="text" value="" placeholder="Пошук">
+        </form>
+    </div>
+</div>            </aside>
+            
+                    </div>
+    </div>
+    
+    <footer class="footer"><div class="foot-main area">
+    <div class="foot-inner">
+        <a target="_blank" rel="nofollow" href="https://mon.gov.ua">
+            <img src="/themes/basic/img/footer/mon.jpg" alt="">
+        </a>
+        <a target="_blank" rel="nofollow" href="http://koda.gov.ua">
+            <img src="/themes/basic/img/footer/koda.jpg" alt="">
+        </a>
+        <a target="_blank" rel="nofollow" href="https://kristti.com.ua">
+            <img src="/themes/basic/img/footer/koipopk.jpg" alt="">
+        </a>
+        <a target="_blank" rel="nofollow" href="https://myronivka-mrada.gov.ua">
+            <img src="/themes/basic/img/footer/mmtg.jpg" alt="">
+        </a>
+        <a target="_blank" rel="nofollow" href="https://myronivka-osvita.gov.ua">
+            <img src="/themes/basic/img/footer/gvkmmrmrko.jpg" alt="">
+        </a>
+    </div>
+</div>
+
+</footer></div>
+
+<div id="scroll-top" style="display: none;"></div>
+
+<div id="modal-form" class="fade modal" role="dialog" tabindex="-1">
+<div class="modal-dialog ">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<div class="custom-header"></div>
+</div>
+<div class="modal-body">
+    <div class="alert"></div>
+    <div class="custom-body"></div>
+
+</div>
+<div class="modal-footer">
+<div class="custom-footer"></div>
+</div>
+</div>
+</div>
+</div>
+<script src="/assets/acee7376/jquery.min.js"></script>
+<script src="/assets/6795fc72/yii.js"></script>
+<script src="/lib/mmenu/mmenu.js"></script>
+<script src="/assets/286d1f0e/js/bootstrap.min.js" defer="defer"></script>
+<script src="/assets/5ee28018/owl.carousel.min.js"></script>
+<script src="/assets/5ee28018/owl.carousel2.thumbs.min.js"></script>
+<script>jQuery(function ($) {
+jQuery("#owc9").owlCarousel(
+{"autoplay":true,"autoplayTimeout":5000,"items":1,"loop":true,"center":false,"dots":true,"nav":true,"navText":["",""],"animateIn":"fadeIn","animateOut":"fadeOut"}
+);
+
+            $(".modal-init").on('click', function (event) {
+                event.preventDefault();
+
+                var modalBox = $("#modal-form"),
+                    modalDialog = modalBox.find('.modal-dialog'),
+                    modalContent = modalDialog.find('.modal-content'),
+                    modalHeader = modalContent.find('.modal-header'),
+                    modalHeaderCustom = modalHeader.find('.custom-header'),
+                    modalBody = modalContent.find('.modal-body'),
+                    modalBodyCustom = modalBody.find('.custom-body'),
+                    modalFooter = modalContent.find('.modal-footer'),
+                    modalFooterCustom = modalFooter.find('.custom-footer'),
+                    modalAlert = modalBody.find('.alert');
+
+                var thisElement = $(this),
+                    url = thisElement.data('url'),
+                    target = thisElement.data('target'),
+                    action = thisElement.data('action'),
+                    params = thisElement.data('params'),
+                    mark = thisElement.data('mark'),
+                    id = thisElement.data('id'),
+                    _set = thisElement.data('set'),
+                    title = thisElement.data('title'),
+                    submit = thisElement.data('submit'),
+                    width = thisElement.data('width');
+                    
+                $.ajax({
+                    'url': url,
+                    'type': 'post',
+                    'dataType': 'json',
+                    'data': {'set' : _set, 'id' : id, 'action' : action, 'target' : target, 'params' : params},
+                    'success': function (data) { 
+                        if (data.status == 'render') {
+                            if ((mark !== undefined) && (/\S/.test(mark))) {
+                                modalBox.attr('data-mark', mark);                            
+                            } else {
+                                modalBox.attr('data-mark', '');                            
+                            }
+                            
+                            if ((width !== undefined) && (/\S/.test(width))) {
+                                modalDialog.css({'max-width': width});
+                            } else {
+                                modalDialog.css({'max-width': ''});
+                            }
+
+                            if ((title !== undefined) && (/\S/.test(title))) {
+                                modalBox.removeClass('head-off').addClass('head-on');
+                            } else {
+                                modalBox.removeClass('head-on').addClass('head-off');
+                            }
+
+                            modalFooter.hide();
+                            modalHeaderCustom.text(title);
+                            modalHeaderCustom.show();
+                            modalAlert.text('').hide();
+                            modalBodyCustom.html(data.data).find("[type='submit']").text(submit);
+                            modalBodyCustom.show();
+                            modalBox.modal('show');
+                        } else {
+                            console.log("unknown response");                        
+                            console.log(data);             
+                        }
+                    },
+                    'error': function (data) {
+                        console.log("server fail");
+                        console.log(data);
+                    }
+                });
+
+                return false;
+            });
+            $('body').on('submit', ".modal-form", function (event) {
+                //event.preventDefault();
+                //console.log('afterValidate'); return false;
+
+                var modalBox = $("#modal-form"),
+                    modalDialog = modalBox.find('.modal-dialog'),
+                    modalContent = modalDialog.find('.modal-content'),
+                    modalHeader = modalContent.find('.modal-header'),
+                    modalHeaderCustom = modalHeader.find('.custom-header'),
+                    modalBody = modalContent.find('.modal-body'),
+                    modalBodyCustom = modalBody.find('.custom-body'),
+                    modalFooter = modalContent.find('.modal-footer'),
+                    modalFooterCustom = modalFooter.find('.custom-footer'),
+                    modalAlert = modalBody.find('.alert');
+
+                var thisForm = $(this),
+                    target = thisForm.data('target'),
+                    action = thisForm.data('action'),
+                    params = thisForm.data('params');
+
+                $.ajax({
+                    'url': thisForm.attr("action"),
+                    'type': 'post',
+                    'dataType': 'json',
+                    'data': "target=" + target + "&" + "action=" + action + "&" + "params=" + params + "&" + thisForm.serialize(),
+                    'success': function (data) {
+                        if (data.status == 'success') {
+                            modalBodyCustom.hide();
+                            modalAlert.removeClass().addClass('alert alert-success').text(data.data).show();
+                            setTimeout(function() {
+                                modalBox.modal('hide');
+                            }, 3000);
+                        } else if (data.status == 'render') {
+                            modalAlert.hide();
+                            modalBodyCustom.html(data.data).show();
+                        } else {
+                            modalBodyCustom.hide();
+                            modalAlert.removeClass().addClass('alert alert-danger').text(data.data).show();
+                        }
+                    },
+                    'error': function (data) {
+                        console.log("server fail");
+                        console.log(data); //data.responseText;
+                    }
+                });
+
+                return false;
+            });
+jQuery('#modal-form').modal({"show":false});
+
+$( document ).ready(function() {
+    var myAPI = new Mmenu( "#menu", {
+        // options
+        
+        navbar: {
+            'title': 'Меню'
+        },
+        
+        theme: "light"
+        // onClick: {
+        //     'preventDefault': false
+        // },
+        // extensions: [
+        //     'position-front'
+        // ]
+    }, { 
+        // configuration
+        
+        offCanvas: {
+            position: "left",
+            page: {
+                selector: '#global'
+            }
+        }
+    });
+   
+    //var myAPI = $("#my-menu").data( "mmenu" );
+   
+    $('#my-close').on('click', function() {
+        myAPI.close();
+    });
+    
+    //$('body').addClass('rd');
+});
+
+});</script>
+</body>
+</html>
